@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">TicTacToe</string>
-    <string name="button_text"></string>
-    <string name="restart">RESTART</string>
-    <string name="message">PLAYING...</string>
-    <string name="eliminate">Button</string>
-</resources>
